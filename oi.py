@@ -1,1 +1,1 @@
-print('oi, tudo bem? sim')
+print('oi, tudo bem? ok')
